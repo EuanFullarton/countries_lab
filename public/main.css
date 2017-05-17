@@ -1,0 +1,37 @@
+img{
+  height:250px;
+  width:450px;
+  padding:20px;
+  float:right;
+  margin-right: 300px;
+}
+
+li{
+  color:white;
+  list-style-type: none;
+  padding:margin-bottom:25px;
+  font-size: 2em;
+}
+
+liName{
+ color:white; 
+ font-size: 2em;
+}
+
+liPop{
+  color:white;
+  font-size: 2em;
+}
+
+liCap{
+  color:white;
+  font-size: 2em;
+}
+
+body{
+  background-color: green;
+}
+
+h1{
+  color:yellow;
+}
